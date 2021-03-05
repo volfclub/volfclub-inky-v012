@@ -16,6 +16,8 @@
     
  * 🎨 可插入图像音频文件了
  
+ # CLEAR
+ 
 先插入一张图片试试，
  
  # IMAGE: https:\/\/i.loli.net/2021/03/05/5stb8Mo7VdRWZ1v.jpg
